@@ -5,7 +5,7 @@ from pywhatkit import whats
 from datetime import datetime as dt
 
 # Main class that builds messages to be sent
-class WhatsMsgSchedule:
+class WhatsAppMessage:
     """
         A class that acts as a blueprint for messages that can be scheduled 
         to be sent on WhatsApp.
